@@ -1,3 +1,9 @@
+
+### Sample Output
+Below is an example of a painting and the corresponding detected emotion:
+
+![Sample Painting Emotion Detection](Screenshot 2025-11-05 110330.png)
+
 # Emotion-Detection-of-paintings
 Software Engineering Project Demonstration
 Project Title:  Painting Emotion Categorization System
